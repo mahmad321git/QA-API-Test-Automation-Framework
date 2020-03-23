@@ -1,0 +1,25 @@
+<<<<<<< HEAD
+C:\Users\ahmad.idrees\Downloads\qa-api-test-automation-framework\src\test\java\com\cdk\qa\framework\validators\ApiValidationBaseClass.java
+C:\Users\ahmad.idrees\Downloads\qa-api-test-automation-framework\src\test\java\com\cdk\qa\framework\validators\ApiValidationTests.java
+C:\Users\ahmad.idrees\Downloads\qa-api-test-automation-framework\src\test\java\com\cdk\qa\framework\listeners\AnnotationTransformer.java
+C:\Users\ahmad.idrees\Downloads\qa-api-test-automation-framework\src\test\java\com\cdk\qa\framework\listeners\Retry.java
+C:\Users\ahmad.idrees\Downloads\qa-api-test-automation-framework\src\test\java\com\cdk\qa\framework\validators\PostMigrationTests.java
+C:\Users\ahmad.idrees\Downloads\qa-api-test-automation-framework\src\test\java\com\cdk\qa\framework\listeners\TestListener.java
+=======
+<<<<<<< HEAD
+D:\auto-project\qa-api-test-automation-framework\src\test\java\com\cdk\qa\framework\validators\ApiValidationTests.java
+D:\auto-project\qa-api-test-automation-framework\src\test\java\com\cdk\qa\framework\validators\ApiValidationBaseClass.java
+D:\auto-project\qa-api-test-automation-framework\src\test\java\com\cdk\qa\framework\listeners\AnnotationTransformer.java
+D:\auto-project\qa-api-test-automation-framework\src\test\java\com\cdk\qa\framework\listeners\Retry.java
+D:\auto-project\qa-api-test-automation-framework\src\test\java\com\cdk\qa\framework\listeners\TestListener.java
+D:\auto-project\qa-api-test-automation-framework\src\test\java\com\cdk\qa\framework\validators\PostMigrationTests.java
+=======
+E:\APINB\qa-api-test-automation-framework\src\test\java\com\cdk\qa\framework\validators\ApiValidationTests.java
+E:\APINB\qa-api-test-automation-framework\src\test\java\com\cdk\qa\framework\validators\PostMigrationTests.java
+E:\APINB\qa-api-test-automation-framework\src\test\java\com\cdk\qa\framework\listeners\AnnotationTransformer.java
+E:\APINB\qa-api-test-automation-framework\src\test\java\com\cdk\qa\framework\validators\ApiValidationPOST.java
+E:\APINB\qa-api-test-automation-framework\src\test\java\com\cdk\qa\framework\listeners\TestListener.java
+E:\APINB\qa-api-test-automation-framework\src\test\java\com\cdk\qa\framework\listeners\Retry.java
+E:\APINB\qa-api-test-automation-framework\src\test\java\com\cdk\qa\framework\validators\ApiValidationBaseClass.java
+>>>>>>> origin/dev
+>>>>>>> dev

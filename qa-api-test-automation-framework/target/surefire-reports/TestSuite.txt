@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+<<<<<<< HEAD
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.979 s - in TestSuite
+=======
+Tests run: 6, Failures: 3, Errors: 0, Skipped: 3, Time elapsed: 62.227 s <<< FAILURE! - in TestSuite
+com.cdk.qa.framework.validators.ApiValidationTests.statusCodeComparison  Time elapsed: 0.026 s  <<< FAILURE!
+java.lang.AssertionError: null
+	at com.cdk.qa.framework.validators.ApiValidationTests.statusCodeComparison(ApiValidationTests.java:58)
+
+com.cdk.qa.framework.validators.ApiValidationTests.attributesCountComparison  Time elapsed: 0.02 s  <<< FAILURE!
+java.lang.AssertionError: null
+	at com.cdk.qa.framework.validators.ApiValidationTests.attributesCountComparison(ApiValidationTests.java:85)
+
+com.cdk.qa.framework.validators.ApiValidationTests.responseBodyComparison  Time elapsed: 0.014 s  <<< FAILURE!
+java.lang.AssertionError: null
+	at com.cdk.qa.framework.validators.ApiValidationTests.responseBodyComparison(ApiValidationTests.java:122)
+
+>>>>>>> dev
