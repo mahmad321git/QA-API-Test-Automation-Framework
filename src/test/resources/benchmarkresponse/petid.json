@@ -1,0 +1,18 @@
+{
+  "id": 2,
+  "category": {
+    "id": 22,
+    "name": "strsdfdng"
+  },
+  "name": "doggie",
+  "photoUrls": [
+    "http://agc.com/abc.jpg"
+  ],
+  "tags": [
+    {
+      "id": 22,
+      "name": "sff"
+    }
+  ],
+  "status": "available"
+}

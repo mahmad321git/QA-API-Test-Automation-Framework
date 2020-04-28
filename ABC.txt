@@ -1,0 +1,1 @@
+I have a pending DYK on OWASP Pentest but its not POC.. Will try to make it as soon as possible once everything will be configured. May be on coming Monday.
