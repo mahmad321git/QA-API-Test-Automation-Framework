@@ -1,0 +1,61 @@
+[
+  {
+    "id": 4711004,
+    "name": "dogger3",
+    "photoUrls": [
+      "https://media.karousell.com/media/photos/products/2017/09/14/doggi_door_stopper_1505372529_5cdd1eba0"
+    ],
+    "status": "sold"
+  },
+  {
+    "id": 5,
+    "name": "dogger3",
+    "photoUrls": [
+      "https://i.ytimg.com/vi/SfLV8hD7zX4/maxresdefault.jpg",
+      "url2"
+    ],
+    "tags": [],
+    "status": "sold"
+  },
+  {
+    "id": 112,
+    "category": {
+      "id": 1,
+      "name": "cat"
+    },
+    "name": "Grumpy Cat",
+    "photoUrls": [
+      "https://pbs.twimg.com/profile_images/948294484596375552/RyGNqDEM_400x400.jpg"
+    ],
+    "tags": [
+      {
+        "id": 1,
+        "name": "blue eyes"
+      }
+    ],
+    "status": "sold"
+  },
+  {
+    "id": 1845563262948982000,
+    "name": "doggie",
+    "photoUrls": [],
+    "tags": [],
+    "status": "sold"
+  },
+  {
+    "id": 666,
+    "category": {
+      "id": 1,
+      "name": "Cat"
+    },
+    "name": "Singing Cat",
+    "photoUrls": [],
+    "tags": [
+      {
+        "id": 1,
+        "name": "Mixed breed"
+      }
+    ],
+    "status": "sold"
+  }
+]

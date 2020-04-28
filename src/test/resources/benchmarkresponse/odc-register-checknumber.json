@@ -1,0 +1,74 @@
+[
+  {
+    "pickId": "000001",
+    "checkNumber": "2597",
+    "payeeId": "5673",
+    "payeeName": "Ben Maas",
+    "checkDate": "2019-11-06",
+    "checkAmount": "10.00",
+    "checkType": "ACCOUNTING",
+    "voidFlag": true,
+    "bu": "0",
+    "invoiceNumbers": null,
+    "invoiceDate": null,
+    "invoiceAmounts": null,
+    "discountAmounts": null,
+    "commentorVINs": null,
+    "userNames": [
+      "accounting@driveflex.com",
+      "accounting@driveflex.com"
+    ],
+    "journalCompanies": [
+      "1",
+      "1"
+    ],
+    "journalIds": [
+      "60",
+      "60"
+    ],
+    "journalDescriptions": [],
+    "accountCompanies": [
+      "1,1",
+      "1,1"
+    ],
+    "accountIds": [
+      "20200,8503",
+      "20200,8503"
+    ],
+    "postAmounts": [
+      "-1000,1000",
+      "1000,-1000"
+    ],
+    "controlIds": [
+      "2597,",
+      "2597,"
+    ],
+    "control2Ids": [
+      ",",
+      ","
+    ],
+    "statCounts": [
+      "0,0",
+      "0,0"
+    ],
+    "productivityIds": [
+      ",",
+      ","
+    ],
+    "postingDescriptions": [
+      ",",
+      ","
+    ],
+    "voidDate": "2019-11-06",
+    "nameCode": "4",
+    "payeeName2": null,
+    "payeeAddress": "2525 SW 1ST AVE ",
+    "payeeCity": "PORTLAND ",
+    "payeeState": "OR",
+    "payeePostalCode": "97204",
+    "reportFlag": null,
+    "errorLevel": "0",
+    "errorMessage": null,
+    "poorStockNos": null
+  }
+]
