@@ -3,7 +3,8 @@
     <listeners>
         <listener class-name="com.cdk.qa.framework.listeners.TestListener"/>
         <listener class-name="com.cdk.qa.framework.listeners.AnnotationTransformer"/>
-    </listeners>
+    </listeners
+	
     <test name="API Tests">
         <groups>
             <run>
