@@ -11,11 +11,11 @@ There are several# of backend API's that are built and linked with the on-premis
 -# of End points with in an API: 10 </br></p>
 
 <h3> Important Framework & Libraries Used: </h3>
-●	RestAssured
-●	TestNg
+- RestAssured</br>
+- TestNg</br>
 
 <h3> Reporting tools Used: </h3>
-- Extent Report
+- Extent Report</br>
 
 <h3> Silent Features of Framework: </h3>
 - RESTful API Support</br>
@@ -25,8 +25,8 @@ There are several# of backend API's that are built and linked with the on-premis
 - Retry Mechanism in case of failure (Configurable)</br>
 - Test Suite Management (Configurable)</br>
 - API vs API comparison (JSON Payloads & Responses)</br>
-  ■	Response Code Validation (Source vs Target)</br>
-  ■	Response Body [Data+Attributes] Validation (Source vs Target)</br>
+  Response Code Validation (Source vs Target)</br>
+  Response Body [Data+Attributes] Validation (Source vs Target)</br>
 - A concise html test result report yielded as Extent Report</br>
 - Test Results email as an attachment to desired audience via AWS SES (Simple Email Service)</br>
 
