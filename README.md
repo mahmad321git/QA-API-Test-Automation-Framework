@@ -9,7 +9,7 @@ So in-order to solve this problem first we have to identify how many services th
 Lets take an Considerate Assumption:</br>
 - # of Services that needs to be tested: 10</br>
 - # of API's that Exist with in the service: 10</br>
-- # of End points with in an API: 10 </br></p>
+- # of End points with in an API: 10 </br>
 
 📐 𝗜𝗺𝗽𝗼𝗿𝘁𝗮𝗻𝘁 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 & 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀 𝗨𝘀𝗲𝗱:
 - RestAssured</br>
