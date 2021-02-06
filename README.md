@@ -1,12 +1,32 @@
 # QA-API-Test-Automation-Framework
 
-<h3> Problem - Statement </h3>
+<h3> Problem - Statement: </h3>
 There are several# of backend API's that are built and linked with the on-premise database and have been migrated onto the cloud. These are being built using the micro-services architecture. As an Automation Enginner you have to verify that API'S are successfully migrated.
 
-<h3> Problem Solution </h3>
+<h3> Problem - Solution: </h3>
 <p>So in-order to solve this problem First we have to identify how many services that needs to be tested? and with in each service how many API's that are being built? and with-in each API how many different end points it has?</br></p>
 <p> Lets take an Considerate Assumption:</br>
 -# of Services that needs to be tested: 10</br>
 -# of API's that Exist with in the service: 10</br>
 -# of End points with in an API: 10 </br></p>
+
+<h3> Important Framework & Libraries Used: </h3>
+●	RestAssured
+●	TestNg
+
+<h3> Reporting tools Used: </h3>
+- Extent Report
+
+<h3> Silent Features of Framework </h3>○	RESTful API Support
+- Configurable API endpoints from a separate config file
+- Cross-Environment execution feasibility
+- Parallel test case execution feasibility
+- Retry Mechanism in case of failure (Configurable)
+- Test Suite Management (Configurable)
+- API vs API comparison (JSON Payloads & Responses)
+  ■	Response Code Validation (Source vs Target)
+  ■	Response Body [Data+Attributes] Validation (Source vs Target)
+- A concise html test result report yielded as Extent Report
+- Test Results email as an attachment to desired audience via AWS SES (Simple Email Service.
+
 
