@@ -11,14 +11,14 @@ So in-order to solve this problem first we have to identify how many services th
 - # of API's that Exist with in the service: 10</br>
 - # of End points with in an API: 10 </br></p>
 
-📐 𝗜𝗺𝗽𝗼𝗿𝘁𝗮𝗻𝘁 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 & 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀 𝗨𝘀𝗲𝗱:
+📐 𝗜𝗺𝗽𝗼𝗿𝘁𝗮𝗻𝘁 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 & 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀 𝘂𝘀𝗲𝗱:
 - RestAssured</br>
 - TestNg</br>
 
 📜 𝗙𝗼𝗿 𝗿𝗲𝗽𝗼𝗿𝘁𝗶𝗻𝗴 𝘄𝗲 𝗵𝗮𝘃𝗲 𝘂𝘀𝗲𝗱:
 - Extent Report</br>
 
-👉 𝗦𝗶𝗹𝗲𝗻𝘁 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀 𝗼𝗳 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸:
+👉 𝗦𝗶𝗹𝗲𝗻𝘁 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀 𝗼𝗳 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸:
 - RESTful API Support</br>
 - Configurable API endpoints from a separate config file</br>
 - Cross-Environment execution feasibility</br>
