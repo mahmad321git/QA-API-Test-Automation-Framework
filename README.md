@@ -17,16 +17,17 @@ There are several# of backend API's that are built and linked with the on-premis
 <h3> Reporting tools Used: </h3>
 - Extent Report
 
-<h3> Silent Features of Framework </h3>○	RESTful API Support
-- Configurable API endpoints from a separate config file
-- Cross-Environment execution feasibility
-- Parallel test case execution feasibility
-- Retry Mechanism in case of failure (Configurable)
-- Test Suite Management (Configurable)
-- API vs API comparison (JSON Payloads & Responses)
-  ■	Response Code Validation (Source vs Target)
-  ■	Response Body [Data+Attributes] Validation (Source vs Target)
-- A concise html test result report yielded as Extent Report
-- Test Results email as an attachment to desired audience via AWS SES (Simple Email Service.
+<h3> Silent Features of Framework: </h3>
+- RESTful API Support</br>
+- Configurable API endpoints from a separate config file</br>
+- Cross-Environment execution feasibility</br>
+- Parallel test case execution feasibility</br>
+- Retry Mechanism in case of failure (Configurable)</br>
+- Test Suite Management (Configurable)</br>
+- API vs API comparison (JSON Payloads & Responses)</br>
+  ■	Response Code Validation (Source vs Target)</br>
+  ■	Response Body [Data+Attributes] Validation (Source vs Target)</br>
+- A concise html test result report yielded as Extent Report</br>
+- Test Results email as an attachment to desired audience via AWS SES (Simple Email Service)</br>
 
 
