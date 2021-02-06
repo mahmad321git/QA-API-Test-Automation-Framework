@@ -31,4 +31,11 @@ So in-order to solve this problem first we have to identify how many services th
 - A concise html test result report yielded as Extent Report</br>
 - Test Results email as an attachment to desired audience via AWS SES (Simple Email Service)</br>
 
+✓ 𝗣𝗿𝗲-𝗥𝗲𝗾𝘂𝗶𝘀𝗶𝘁𝗲𝘀:
+- Editor: Intellij
+- Language: Java
 
+🎲 𝗖𝗹𝗼𝗻𝗶𝗻𝗴 & 𝗦𝗲𝘁𝘂𝗽 𝗚𝘂𝗶𝗱𝗲:
+
+
+⛏ 𝗘𝘅𝗲𝗰𝘂𝘁𝗶𝗼𝗻 𝗙𝗶𝗹𝗲𝘀:
